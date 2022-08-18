@@ -115,6 +115,13 @@ a:active {
     text-align: center;
 }
 
+.canais{
+    position: relative;
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+}
+
 /* Banners img slides */
 .banners{
     width: 100%;
